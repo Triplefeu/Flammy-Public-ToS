@@ -1,2 +1,2 @@
 # Flammy-Public-ToS-PP
-Terms of services du bot discord publique Flammy.
+Terms of Service du bot discord publique Flammy.
